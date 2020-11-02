@@ -7,7 +7,7 @@ Environment
 ---------------------
 
 Install the relevant environment according to the requirements.tx file
-Because the VGG19 parameter file is relatively large, the resource has been put on CSDN for free, please put it under the vgg19 folder after downloading, please see the detailed address：
+Because the VGG19 parameter file is relatively large, the resource has been put on CSDN for free, please put it under the vgg19 folder after downloading, please see the detailed address：https://download.csdn.net/download/qq_40298054/13082438
 
 
 File description
